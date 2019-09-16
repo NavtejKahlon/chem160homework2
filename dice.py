@@ -22,3 +22,4 @@ for i in range(ntrials):
 
     
 print("Average player1wins =%5.2f" %(player1_wins/ntrials))
+# This game is still isn't fair, player1's winning probability is still 20% greater than player2
